@@ -50,7 +50,6 @@ Lower Triangular Pattern:
 
 - ✅ Menu-driven interface
 - ✅ Input validation
-- ✅ Clean and formatted output
 - ✅ Continuous operation until user exits
 - ✅ Error handling for invalid inputs
 
@@ -58,16 +57,16 @@ Lower Triangular Pattern:
 
 ### Lower Triangular Pattern
 
-![Lower Triangular Pattern](screenshots/lower_triangular.png)
+![Lower Triangular Pattern](Outputs/lower_triangular.png)
 
 ### Upper Triangular Pattern  
-![Upper Triangular Pattern](screenshots/upper_triangular.png)
+![Upper Triangular Pattern](Outputs/upper_triangular.png)
 
 ### Pyramid Pattern
-![Pyramid Pattern](screenshots/pyramid.png)
+![Pyramid Pattern](Outputs/pyramid.png)
 
-### Menu Interface
-![Menu Interface](screenshots/menu.png)
+### Error Handling for incorrect inputs
+![Error Handling](Outputs/error_handling.png)
 
 
 ## Notes
